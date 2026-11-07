@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <defs>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#191A17" fill-opacity=".13"/></pattern>
+    <pattern id="rays" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(18)"><path d="M16 0v32" stroke="#191A17" stroke-width="1.4"/></pattern>
+    <clipPath id="orb"><circle cx="952" cy="180" r="108"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="1196" height="376" rx="8" fill="#F6F3EC" stroke="#191A17" stroke-width="3"/>
+  <rect x="4" y="4" width="1192" height="372" rx="6" fill="url(#dots)"/>
+  <path d="M814 4h382v372H814z" fill="#E9A28A"/><path d="M814 4h382v372H814z" fill="url(#rays)" fill-opacity=".28"/>
+  <path d="M58 61h112" stroke="#191A17" stroke-width="2"/><circle cx="63" cy="61" r="5" fill="#D66749" stroke="#191A17" stroke-width="1.5"/>
+  <text x="82" y="66" fill="#191A17" font-family="monospace" font-size="13" letter-spacing="2">VOICE PRACTICE FOR REAL LIFE</text>
+  <text x="54" y="174" fill="#191A17" font-family="Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-7">saywell<tspan fill="#D66749">✳</tspan></text>
+  <text x="60" y="229" fill="#191A17" font-family="Arial, sans-serif" font-size="29" font-weight="600">Say it before it matters.</text>
+  <text x="60" y="276" fill="#5B5C55" font-family="Arial, sans-serif" font-size="18">Practice hard conversations. Find your words. Grow with every take.</text>
+  <g clip-path="url(#orb)"><circle cx="952" cy="180" r="108" fill="#D9F25D"/><circle cx="952" cy="180" r="98" stroke="#191A17" stroke-width="2" stroke-dasharray="2 7"/>
+    <path d="M952 47v25m0 216v25M819 180h25m216 0h25M858 86l18 18m152 152 18 18m0-188-18 18M876 256l-18 18" stroke="#191A17" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="952" cy="180" r="66" fill="#F6F3EC" stroke="#191A17" stroke-width="2.5"/>
+    <path d="M928 173v14m14-24v34m14-27v21m14-39v56m14-30v16" stroke="#191A17" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <circle cx="952" cy="180" r="112" stroke="#191A17" stroke-width="2.5"/>
+  <path d="M842 316h254" stroke="#191A17" stroke-width="1.5"/>
+  <text x="842" y="337" fill="#191A17" font-family="monospace" font-size="10" letter-spacing="1.6">YOUR VOICE · YOUR PACE · YOUR NEXT STEP</text>
+  <g transform="translate(1110 55) rotate(9)"><circle cx="0" cy="0" r="28" fill="#F6F3EC" stroke="#191A17" stroke-width="2"/><text x="0" y="4" text-anchor="middle" fill="#191A17" font-family="monospace" font-size="10" font-weight="700">PIP</text></g>
+</svg>
